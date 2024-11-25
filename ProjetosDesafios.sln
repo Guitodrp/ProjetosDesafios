@@ -37,17 +37,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VelocidadeDoRobo", "Velocid
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JogadorDeFutebol", "JogadorDeFutebol\JogadorDeFutebol.csproj", "{5D46EF96-45B4-4485-BCDD-AA3732300B92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriandoPersonagem", "CriandoPersonagem\CriandoPersonagem.csproj", "{0DC564F9-980B-4073-838D-0CAA48292495}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CriandoPersonagem", "CriandoPersonagem\CriandoPersonagem.csproj", "{0DC564F9-980B-4073-838D-0CAA48292495}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElementoMajoritario", "ElementoMajoritario\ElementoMajoritario.csproj", "{D159E4AE-C11C-444F-8848-05626BC6EEB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElementoMajoritario", "ElementoMajoritario\ElementoMajoritario.csproj", "{D159E4AE-C11C-444F-8848-05626BC6EEB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorridaDeTartarugas", "AumentoDeSalario\CorridaDeTartarugas.csproj", "{7499E6E5-3657-486A-A89B-73353408A100}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CorridaDeTartarugas", "AumentoDeSalario\CorridaDeTartarugas.csproj", "{7499E6E5-3657-486A-A89B-73353408A100}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteUnitario", "TesteUnitario\TesteUnitario.csproj", "{AA2061E3-5150-481E-99CB-63B0FC813A41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteUnitario", "TesteUnitario\TesteUnitario.csproj", "{AA2061E3-5150-481E-99CB-63B0FC813A41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotasAlunos", "NotasAlunos\NotasAlunos.csproj", "{B947E0A0-6602-4C18-BDCF-F9177013667F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotasAlunos", "NotasAlunos\NotasAlunos.csproj", "{B947E0A0-6602-4C18-BDCF-F9177013667F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estacionamento", "Estacionamento\Estacionamento.csproj", "{26DB3EAE-3670-488F-A6C0-E645AA13A6E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estacionamento", "Estacionamento\Estacionamento.csproj", "{26DB3EAE-3670-488F-A6C0-E645AA13A6E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidadorDeCpf", "ValidadorDeCpf\ValidadorDeCpf.csproj", "{5732CA2C-3EAB-437E-A7DB-E7F75C51F100}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{26DB3EAE-3670-488F-A6C0-E645AA13A6E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26DB3EAE-3670-488F-A6C0-E645AA13A6E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26DB3EAE-3670-488F-A6C0-E645AA13A6E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5732CA2C-3EAB-437E-A7DB-E7F75C51F100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5732CA2C-3EAB-437E-A7DB-E7F75C51F100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5732CA2C-3EAB-437E-A7DB-E7F75C51F100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5732CA2C-3EAB-437E-A7DB-E7F75C51F100}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
